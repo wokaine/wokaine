@@ -1,4 +1,4 @@
-# wokaine's epic GitHub
+# wokaine's GitHub
 The purpose of this GitHub is to (sometimes) store coursework and projects. Basically a public archive.
 
 ## About
