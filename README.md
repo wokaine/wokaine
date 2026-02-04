@@ -8,7 +8,7 @@
 ## About
 I’m currently a fifth year student studying MEng (Integrated) Software Engineering at The University of Sheffield. The majority of my projects on here are from univeristy assignments. At the moment, not all of them are on here, but I plan to try upload them (and remove all the university rigamarole) so that you can see all the fun projects I have done during my time at university.
 
-At the moment, I'm not currently working on any solo projects as university is currently taking priority. I hope that once summer arrives I'll be able to ressurrect all these dead projects!😅
+At the moment, I'm not currently prioritising work on solo projects as the second semester university is currently underway. I hope that once summer arrives I'll be able to ressurrect all these dead projects!😅
 
 At the moment my strongest programming language is **Python**, and that's simply because I have done so many Python projects recently and worked with it a lot during my year in industry. You can find more details about my experience and my skills on my CV which you can get a copy from my [website](https://wokaine.github.io/freddiebutterfield.github.io/).
 
