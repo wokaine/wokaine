@@ -23,5 +23,6 @@ Here are some projects that I'm particularly proud of, despite their unfinished 
 - [enigma](https://github.com/wokaine/enigma): A simulation of the wartime encoder "The Engima Machine" and the code-cracking counterpart "the Bombe"
 
 ### Solo Projects
+- [ball-oracle](https://github.com/wokaine/ratemydeal): A collection of football-themed machine learning projects combining my academic knowledge with my interests! I'm currently actively working on this, so check it out!
 - [ratemydeal](https://github.com/wokaine/ratemydeal): A pseudo-social media application where users can upload whatever meal deal they had that day. A great concept that I'd love to revisit, maybe using a different framework.
 - [nea-poker](https://github.com/wokaine/nea-poker): An A-Level computer science project that simulates Texas Hold 'Em poker with extremely crude AI.
