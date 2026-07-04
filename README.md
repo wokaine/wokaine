@@ -2,7 +2,7 @@
 
 ## Quick Links
 - [LinkedIn](https://www.linkedin.com/in/freddie-butterfield-1147a3266/)
-- [Website](https://wokaine.github.io/freddiebutterfield.github.io/)
+- [Website](https://freddiebutterfield.com)
 - [Email](mailto:freddie.butterfield1@gmail.com)
 
 ## About
